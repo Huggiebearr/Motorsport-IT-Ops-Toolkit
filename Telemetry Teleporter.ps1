@@ -23,7 +23,7 @@ Write-Host "SETUP COMPLETE: Test folders and file created." -ForegroundColor Yel
 # 1. Find all text files in the Simulator folder
 $filesToMove = Get-ChildItem -Path $sourcePath -Filter "*.txt"
 
-# 2. Loop through every file we found
+# 2. Loop through every file found
 foreach ($file in $filesToMove) {
     Write-Host "Processing: $($file.Name)..." -NoNewline
 

@@ -1,4 +1,4 @@
-﻿# --- THE PANIC BUTTON ---
+﻿# --- THE PANIC BUTTON!!!!!!! ---
 $appName = "notepad"
 $appPath = "C:\Windows\System32\notepad.exe"
 $cachePath = "C:\Simulator_Cache_Temp"

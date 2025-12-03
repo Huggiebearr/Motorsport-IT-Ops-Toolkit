@@ -1,11 +1,11 @@
 ﻿# --- CONFIGURATION ---
-# The service we need to keep alive ( Pretend this is 'SimEngine' )
+# The service needs to be kept alive ( Pretend this is 'SimEngine' )
 $targetService = "Spooler" 
 
 # The server we need to talk to (Using Google DNS as a test dummy)
 $criticalServer = "8.8.8.8" 
 
-# The maximum allowed ping (in milliseconds) before we panic
+# The maximum allowed ping (in milliseconds) before we go Bananas
 $maxLatency = 50
 
 # --- 1 SERVICE CHECK ---

@@ -3,7 +3,7 @@ import requests
 import json
 
 # --- CONFIGURATION ---
-# PASTE YOUR WEBHOOK URL INSIDE THE QUOTES BELOW
+# WEBHOOK URL - For Discord Bot
 WEBHOOK_URL = "https://discordapp.com/api/webhooks/1445192263910293534/98CE97uNudAMTvsjYvna79ji_A4F55UYwe6NXe3HeZQr3UIkLq_9eohQXO8EChc4F47m"
 
 # --- THE LOGIC ---
